@@ -7,6 +7,7 @@ In today’s data-driven organizations, the ability to transform raw data into a
 **This project solves that by building a unified, end-to-end data platform** on **Microsoft Fabric** using the **Medallion Architecture (Bronze, Silver, Gold layers)** — enabling **scalable, reliable, and business-ready analytics** with minimal friction.
 
 ---
+This project uses a simulated retail sales dataset designed to mimic real-world transactional data flowing through a modern enterprise system. The data is structured to support end-to-end data engineering workflows across the Bronze, Silver, and Gold layers of the Medallion Architecture.
 
 ## 💡 Why This Solution?
 
